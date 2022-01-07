@@ -11,8 +11,9 @@ I also plan on adding support for:
 Currently Working:
 - [X] Menu
 - [ ] Bluetooth
-- [ ] HID Keyboard
-- [ ] Calculator
-- [ ] BongoHome
+- [ ] Battery
+- [X] HID Keyboard
+- [X] Calculator
+- [X] BongoHome
 - [X] KeyMatrix
 - [ ] LEDEffects
